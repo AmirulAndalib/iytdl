@@ -225,6 +225,22 @@ chmod +x scripts/install.sh && ./scripts/install.sh
 
 ---
 
+## 📊 Download Stats
+
+<p align="center">
+  <a href="https://clickhouse-analytics.metabaseapp.com/public/dashboard/8d516106-3a9f-4674-aafc-aa39d6380ee2?project_name=iytdl#&theme=night">
+    <img alt="View Download Stats Dashboard" src="https://img.shields.io/badge/View%20Download%20Stats-Live%20Dashboard-blue?style=for-the-badge&logo=metabase&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pepy.tech/project/iytdl"><img alt="Total Downloads" src="https://static.pepy.tech/badge/iytdl" /></a>
+  <a href="https://pepy.tech/project/iytdl"><img alt="Monthly Downloads" src="https://static.pepy.tech/badge/iytdl/month" /></a>
+  <a href="https://pepy.tech/project/iytdl"><img alt="Weekly Downloads" src="https://static.pepy.tech/badge/iytdl/week" /></a>
+</p>
+
+---
+
 ## Real-World Usage
 
 **[YouTube.py](https://github.com/code-rgb/droid/blob/master/droid/modules/youtube.py)** — Full bot module built with iYTDL
